@@ -62,8 +62,8 @@ def find_matching_keypoints(image1, image2):
     return points1, points2
 
 # Load images from file system
-image1_path = 'C:\sweathaswin\q'  # Update with your actual image path for the first image
-image2_path = 'C:\sweathaswin\q2'  # Update with your actual image path for the second image
+image1_path = 'C:\hp\q'  # Update with your actual image path for the first image
+image2_path = 'C:\hp\q2'  # Update with your actual image path for the second image
 
 image1 = cv2.imread(image1_path)  # Read first image
 image2 = cv2.imread(image2_path)  # Read second image
