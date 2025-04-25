@@ -1,6 +1,6 @@
 import cv2
 
-image_path = r"C:\sweathaswin\i3.jpg"
+image_path = r"C:\Users\Public\Pictures\Sample Pictures\Koala.jpg"
 image = cv2.imread(image_path)
 
 # Check if image is loaded correctly
