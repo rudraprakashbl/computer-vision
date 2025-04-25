@@ -1,7 +1,7 @@
 import cv2
 
 # Load the image (replace 'image_path' with your image file path)
-image = cv2.imread('C:\sweathaswin')
+image = cv2.imread("C:\Users\Public\Pictures\Sample Pictures\stock-photo-142984111.jpg")
 
 # Check if the image was loaded correctly
 if image is None:
