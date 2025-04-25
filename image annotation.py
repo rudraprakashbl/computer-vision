@@ -1,6 +1,6 @@
 import cv2
 # Load an input image
-image = cv2.imread(r"C:\sweathaswin\s.jpg") # Replace with your image path
+image = cv2.imread(r"C:\Users\Public\Pictures\Sample Pictures\Penguins.jpg") # Replace with your image path
 if image is None:
  print(" Could not load image. Please check the file path.")
  exit()
