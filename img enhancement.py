@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load image
-image = cv2.imread(r"C:\sweathaswin\s.jpg")  # Replace with your image path
+image = cv2.imread(r"C:\Users\Public\Pictures\Sample Pictures\Koala.jpg")  # Replace with your image path
 if image is None:
     print("Image not found. Please check the file path.")
     exit()
