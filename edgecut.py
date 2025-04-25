@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 # Load the image
-img =cv2.imread(r"C:\sweathaswin\s.jpg")
+img =cv2.imread(r"C:\Users\Student\Downloads\s.jpg")
 if img is None:
  print("Image not found. Please check the path.")
  exit()
