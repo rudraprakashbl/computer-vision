@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load image
-image = cv2.imread(r"C:\sweathaswin\s.jpg", cv2.IMREAD_COLOR)
+image = cv2.imread(r"C:\Users\Student\Downloads\2(exp1).jpg", cv2.IMREAD_COLOR)
 if image is None:
     print("Image not found. Please check the file path.")
     exit()
